@@ -1,0 +1,15 @@
+# Site Settings
+title: Students for Palestine Heidelberg
+email: sfp_heidelberg@protonmail.com
+description: >
+  Students in Heidelberg standing with Palestine, advocating for free speech and against the ongoing genocide 🇵🇸🕊️
+baseurl: "/sfp-heidelberg"
+url: "http://sfp-heidelberg.github.io"
+github_username: sfp-heidelberg
+instagram_username: sfp_heidelberg
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
