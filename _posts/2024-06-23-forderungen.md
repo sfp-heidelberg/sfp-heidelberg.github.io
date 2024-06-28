@@ -3,7 +3,7 @@ layout: posts
 title:  "Unsere Forderungen"
 date: 2024-06-23 23:24:20
 tags: statements
-permalink: /blog/test/
+permalink: /blog/2024/forderungen
 ---
 
 # Unsere Forderungen
@@ -34,6 +34,7 @@ Wir, die Studierenden der Heidelberger Hochschulen, fordern an alle Heidelberger
 
     3. Überprüfung und strukturelle Reformierung der universitären Maßnahmen gegen Diskriminierung an Heidelberger Bildungs- und Forschungseinrichtungen.
 
+---
 
 # Our Demands
 
