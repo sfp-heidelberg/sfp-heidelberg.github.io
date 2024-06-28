@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Offener Brief"
+title: "Offener Brief"
 date: 2024-06-28 22:04:20
 tags: statements
 permalink: /blog/2024/offener_brief
@@ -13,16 +13,27 @@ Als Studierende der Heidelberger Hochschulen haben wir uns als Reaktion auf den 
 Von allen Heidelberger Bildungs- und Forschungseinrichtungen (einschließlich Ruprecht-Karls-Universität Heidelberg, Hochschule für Jüdische Studien Heidelberg, Pädagogische Hochschule Heidelberg, Deutsches Krebsforschungszentrum, vier Max-Planck-Institute in Heidelberg, und andere Einrichtungen) fordern wir im Einzelnen:
 
 1. **Anerkennung und Verurteilung des Völkermords** an der palästinensischen Bevölkerung durch die israelische Regierung sowie der israelischen Besatzung Palästinas und **Forderung eines sofortigen, dauerhaften Waffenstillstandes.**
+
 2. **Maßnahmen gegen Mittäterschaft am Völkermord**
+
     1. die vollständige und umfassende **Offenlegung der Finanzierungspartner** aller Heidelberger Bildungs- und Forschungseinrichtungen (einschließlich philanthropischer Unterstützung).
+
     2. eine **Überprüfung** dieser Finanzierungspartner im Hinblick auf die **Einhaltung der Menschenrechte und des Völkerrechts** und umgehende Einstellung der Kooperation bei festgestellten Menschen- und Völkerrechtsverletzungen.
+
     3. die unmittelbare **Beendigung der Kooperationen** zwischen allen Heidelberger Bildungs- und Forschungseinrichtungen und israelischen akademischen Institutionen, die sich am Völkermord und der völkerrechtswidrigen Besetzung Palästinas mitschuldig machen.
-3. **Solidarität** mit Palästina             
+
+3. **Solidarität** mit Palästina
+
     1. umgehende Maßnahmen zur **Unterstützung palästinensischer Studierender und Mitarbeitender** bei der Aufnahme in Heidelberg und Schaffung geschützter Räume.
+
     2. die **Etablierung und Erweiterung** **akademischer Kooperationen** zwischen Heidelberger und palästinensischen Bildungs- und Forschungseinrichtungen, beispielsweise in Form von Forschungskollaborationen, Studienaustausch, und Stipendienprogrammen.
+
 4. **Freiheit des akademischen Diskurses über Antisemitismus und (antimuslimischen) Rassismus**
+
     1. eine **freie** und **wissenschaftliche Diskussion** über Antisemitismus, (antimuslimischen) Rassismus sowie Kolonialismus an der Universität Heidelberg und der Hochschule für Jüdische Studien sowie kontinuierliche interdisziplinäre Seminare zur Palästina-Forschung und zur (historischen) palästinensischen Lebensrealität.
+
     2. **Ablehnung der Instrumentalisierung und des Missbrauchs** **des Antisemitismus- Begriffs** durch die Verwendung der IHRA-Arbeitsdefinition (insbesondere mittels der Gleichsetzung von Antizionismus mit Antisemitismus) sowie der Verbreitung von Desinformationen und Propaganda.
+
     3. Überprüfung und strukturelle Reformierung der universitären Maßnahmen gegen Diskriminierung an Heidelberger Bildungs- und Forschungseinrichtungen.
 
 Wir stehen klar gegen jegliche Form von Antisemitismus und Rassismus. In Bezug auf den Anstieg von antimuslimischem Rassismus und Antisemitismus ist es von enormer Bedeutung, gegen rechtsextremistische Ideologien vorzugehen und diese zu bekämpfen. Alle Mitglieder von Students for Palestine Heidelberg, unter besonderer Betonung unserer jüdischen und palästinensischen Mitglieder, stehen geschlossen zusammen, um sich gegen die Instrumentalisierung des Kampfs gegen Antisemitismus mit dem Ziel der Zensur und Diffamierung palästinensischer und antizionistisch-jüdischer Stimmen auszusprechen.
@@ -39,6 +50,6 @@ Heidelberg, den 28.06.2024
 
 Kontakt:
 
-E-Mail: [sfp\_heidelberg@protonmail.com](mailto:sfp_heidelberg@protonmail.com)
+E-Mail: [sfp_heidelberg@protonmail.com](mailto:sfp_heidelberg@protonmail.com)
 
-Instagram: [@sfp\_heidelberg](https://www.instagram.com/sfp_heidelberg)
+Instagram: [@sfp_heidelberg](https://www.instagram.com/sfp_heidelberg)
