@@ -6,7 +6,7 @@ tags: statements
 permalink: /blog/2024/offener_brief
 ---
 
-**Offener Brief**
+# Offener Brief
 
 Als Studierende der Heidelberger Hochschulen haben wir uns als Reaktion auf den Völkermord an den Palästinenser:innen zusammengefunden, um uns mit der palästinensischen Bevölkerung, den palästinensischen Studierenden und der globalen Studierendenbewegung zu solidarisieren. Wir verfolgen das Ziel, an kritischen Gesprächen zur palästinensischen Sache teilzunehmen, das Bewusstsein über die palästinensische Sache und über Menschen- und Völkerrechtsverletzungen durch Israel und israelische Institutionen zu schärfen, uns mit dem Diskurs über Israel und Palästina in Deutschland auseinanderzusetzen und gegen alle Formen der Diskriminierung und Unterdrückung aktiv zu werden. Wir verurteilen die völkerrechtswidrige israelische Besetzung Palästinas und fordern einen sofortigen, dauerhaften Waffenstillstand sowie eine Beendigung des Schweigens und der Mittäterschaft Deutschlands.
 
@@ -34,6 +34,8 @@ Wir laden Sie hiermit ein, im Rahmen einer Podiumsdiskussion, eines Round Tables
 Wir sehen der förmlichen Rückmeldung der Heidelberger Bildungs- und Forschungseinrichtungen innerhalb der nächsten Arbeitswoche entgegen. Wir rufen Sie dazu auf, sich zu vergegenwärtigen, dass jede Woche mehr als 300 Palästinenser:innen sterben (laut [OCHA](https://www.ochaopt.org/content/humanitarian-situation-update-184-gaza-strip)\-[Bericht](https://www.ochaopt.org/content/humanitarian-situation-update-182-gaza-strip)) und mehr als 1,1 Million Palästinenser:innen von einer Hungersnot betroffen sind (laut [IPC-Bericht](https://www.un.org/unispal/document/ipc-famine-third-review-report-25jun24/)), die meisten von ihnen Kinder und Frauen.
 
 Students for Palestine Heidelberg
+
+Heidelberg, den 28.06.2024
 
 Kontakt:
 
