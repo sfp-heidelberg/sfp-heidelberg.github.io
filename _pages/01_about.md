@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="row">
-    <div class="column">
+
 We, the Students of Heidelberg have come together to:
 
 **stand in solidarity** with the Palestinian people, Palestinian students and with the global student movement. 
@@ -23,8 +22,7 @@ reflect on **discourses in Germany** about Israel and Palestine,
 **act against** all forms of discrimination and oppression.
 
 **Justice, peace, freedom for Palestine and for all oppressed peoples of the world!**
-    </div>
-    <div class="column">
+
 Wir, die Heidelberger Studierenden, haben uns zusammengefunden, um:
 
 **uns solidarisch zu zeigen** mit dem palästinensischen Volk, den palästinensischen Studierenden und der globalen Studierendenbewegung,
@@ -42,5 +40,3 @@ setzen wir uns auseinander mit dem **Diskurs über Israel und Palästina** in De
 werden wir aktiv **gegen** alle Formen der Diskriminierung und Unterdrückung.
 
 **Gerechtigkeit, Frieden und Freiheit für Palästina und alle unterdrückten Völker der Welt!**
-    </div>
-</div>
