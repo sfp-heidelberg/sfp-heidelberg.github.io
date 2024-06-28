@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Offener Brief"
-date: 2024-06-28 22:04:20
+date: 2024-06-28
 tags: statements
 permalink: /blog/2024/offener_brief
 ---
@@ -38,9 +38,9 @@ Von allen Heidelberger Bildungs- und Forschungseinrichtungen (einschließlich Ru
 
 Wir stehen klar gegen jegliche Form von Antisemitismus und Rassismus. In Bezug auf den Anstieg von antimuslimischem Rassismus und Antisemitismus ist es von enormer Bedeutung, gegen rechtsextremistische Ideologien vorzugehen und diese zu bekämpfen. Alle Mitglieder von Students for Palestine Heidelberg, unter besonderer Betonung unserer jüdischen und palästinensischen Mitglieder, stehen geschlossen zusammen, um sich gegen die Instrumentalisierung des Kampfs gegen Antisemitismus mit dem Ziel der Zensur und Diffamierung palästinensischer und antizionistisch-jüdischer Stimmen auszusprechen.
 
-Nach der plötzlichen Absage der für den 4. Juni 2024 geplanten Lehrveranstaltung »Palestinian activism and (German) media« im Rahmen des Seminars »#Islam: Religious Dynamics in Online Spaces« erwarten wir noch immer die Ermöglichung einer offenen Diskussion durch die Universität, und zwar in einem neuem Format und in größerem Rahmen als [ursprünglich](https://www.uni-heidelberg.de/de/newsroom/lehrveranstaltung-islam-religious-dynamics-in-online-spaces-in-neuem-format) vorgesehen. Geschieht dies möglichst zeitnah vor dem Ende des Semesters, würde dies die Bereitschaft für die kritische Auseinandersetzung mit dem Thema seitens der Universität zeigen, anstelle von einer Unterdrückung der Freiheit von Forschung und Lehre durch eine Beschränkung der Möglichkeiten der Studierenden, sich in einem gemeinsamen Rahmen mit den betreffenden Themen auseinanderzusetzen, infolge internen und externen Drucks.
+Nach der plötzlichen Absage der für den 4. Juni 2024 geplanten Lehrveranstaltung »Palestinian activism and (German) media« im Rahmen des Seminars »#Islam: Religious Dynamics in Online Spaces« erwarten wir noch immer die Ermöglichung einer offenen Diskussion durch die Universität Heidelberg, und zwar in einem neuem Format und in größerem Rahmen als [ursprünglich](https://www.uni-heidelberg.de/de/newsroom/lehrveranstaltung-islam-religious-dynamics-in-online-spaces-in-neuem-format) vorgesehen. Geschieht dies möglichst zeitnah vor dem Ende des Semesters, würde dies die Bereitschaft für die kritische Auseinandersetzung mit dem Thema seitens der Universität zeigen, anstelle von einer Unterdrückung der Freiheit von Forschung und Lehre durch eine Beschränkung der Möglichkeiten der Studierenden, sich in einem gemeinsamen Rahmen mit den betreffenden Themen auseinanderzusetzen, infolge internen und externen Drucks.
 
-Wir laden Sie hiermit ein, im Rahmen einer Podiumsdiskussion, eines Round Tables o. Ä. mit uns ins Gespräch zu kommen.
+Wir laden die Heidelberger Bildungs- und Forschungseinrichtungen hiermit ein, im Rahmen einer Podiumsdiskussion, eines Round Tables o. Ä. mit uns ins Gespräch zu kommen.
 
 Wir sehen der förmlichen Rückmeldung der Heidelberger Bildungs- und Forschungseinrichtungen innerhalb der nächsten Arbeitswoche entgegen. Wir rufen Sie dazu auf, sich zu vergegenwärtigen, dass jede Woche mehr als 300 Palästinenser:innen sterben (laut [OCHA](https://www.ochaopt.org/content/humanitarian-situation-update-184-gaza-strip)\-[Bericht](https://www.ochaopt.org/content/humanitarian-situation-update-182-gaza-strip)) und mehr als 1,1 Million Palästinenser:innen von einer Hungersnot betroffen sind (laut [IPC-Bericht](https://www.un.org/unispal/document/ipc-famine-third-review-report-25jun24/)), die meisten von ihnen Kinder und Frauen.
 
