@@ -1,9 +1,12 @@
 ---
 layout: posts
 title:  "Unsere Forderungen"
-date: 2024-06-23
-tags: statements
+date: '2024-06-23'
+tags: 
+    - statements
+published: true
 permalink: /blog/2024/forderungen
+description: 'Unsere Forderungen als Gruppe!'
 ---
 
 # Unsere Forderungen

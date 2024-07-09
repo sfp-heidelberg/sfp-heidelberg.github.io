@@ -3,8 +3,8 @@ title: Students for Palestine Heidelberg
 email: sfp_heidelberg@protonmail.com
 description: >
   Students in Heidelberg standing with Palestine, advocating for free speech and against the ongoing genocide 🇵🇸🕊️
-baseurl: ""
-url: "http://localhost:4000"
+baseurl: ''
+url: 'http://localhost:4000'
 github_username: sfp-heidelberg
 instagram_username: sfp_heidelberg
 
