@@ -40,6 +40,7 @@
 	.title {
 		font-size: var(--font-size-fluid-2);
 		text-transform: capitalize;
+        font-family: var(--font-sans-title);
 	}
 
 	.date {
@@ -48,6 +49,7 @@
 
 	.description {
 		margin-top: var(--size-3);
+        font-family: var(--font-sans-content);
 	}
 	.card {
 		background-color: var(--surface-4-dark);

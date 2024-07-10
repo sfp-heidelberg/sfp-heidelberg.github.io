@@ -1,34 +1,40 @@
 <script lang="ts">
 	import { formatDate } from '$lib/utils'
 
-
-    export let data
+	export let data
 </script>
 
-    <article>
-        <hgroup>
-            <h1>{data.meta.title}</h1>
-            <p>Published at {formatDate(data.meta.date)}</p>
-        </hgroup>
-        <div class="tags">
-            {#each data.meta.tags as tag}
-                <span class="surface-4">&num;{tag}</span>
-            {/each}
-        </div>
+<article>
+	<hgroup>
+		<h1 class="title">{data.meta.title}</h1>
+		<p>Published at {formatDate(data.meta.date)}</p>
+	</hgroup>
+	<div class="tags">
+		{#each data.meta.tags as tag}
+			<span class="surface-4">&num;{tag}</span>
+		{/each}
+	</div>
 
-        <div class="prose">
-            <svelte:component this={data.content} />
-        </div>
-    </article>
+	<div class="prose">
+		<svelte:component this={data.content} />
+	</div>
+</article>
 
 <style>
-    article {
+    .title {
+		font-size: var(--font-size-fluid-3);
+		text-transform: capitalize;
+        font-family: var(--font-sans-title);
+	}
+	article {
 		max-inline-size: var(--size-content-3);
 		margin-inline: auto;
+        font-family: var(--font-sans-content);
 	}
 
 	h1 {
 		text-transform: capitalize;
+
 	}
 
 	h1 + p {

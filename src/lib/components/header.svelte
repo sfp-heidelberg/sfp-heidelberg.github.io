@@ -1,5 +1,6 @@
 <script lang="ts">
 	import * as config from '$lib/config'
+    import Toggle from './toggle.svelte';
 </script>
 
 <nav>
@@ -16,6 +17,7 @@
 		</li>
 		<li><a href="/blog">Blog</a></li>
 	</ul>
+    <Toggle/>
 </nav>
 
 <style>
@@ -25,6 +27,11 @@
 
 	.links {
 		margin-block: var(--size-7);
+	}
+    .title {
+		font-size: var(--font-size-fluid-1);
+		text-transform: capitalize;
+        font-family: var(--font-sans-title);
 	}
 	a {
 		color: inherit;
