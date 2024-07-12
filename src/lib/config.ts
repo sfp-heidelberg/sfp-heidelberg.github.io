@@ -1,6 +1,7 @@
 import { dev } from '$app/environment'
 
-export const title = 'Students for Palestine Heidelberg'
+//export const title = 'Students for Palestine Heidelberg'
+export const title = 'Students'
 export const description =
 	'Students in Heidelberg standing with Palestine, advocating for free speech and against the ongoing genocide 🇵🇸🕊️'
 export const email = 'sfp_heidelberg@protonmail.com'

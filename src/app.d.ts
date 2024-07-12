@@ -9,5 +9,8 @@ declare global {
 		// interface Platform {}
 	}
 }
-
+declare module "*.md" {
+    const meta: any;
+    export default value;
+}
 export {}

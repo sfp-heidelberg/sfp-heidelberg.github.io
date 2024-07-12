@@ -8,3 +8,11 @@ export type Post = {
 	categories: Categories[]
 	published: boolean
 }
+
+export type Page = {
+	title: string
+	slug: string
+	layout: string
+	content: string
+	published: boolean
+}

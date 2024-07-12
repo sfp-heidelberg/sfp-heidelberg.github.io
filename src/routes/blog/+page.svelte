@@ -12,12 +12,14 @@
 	<ul class="posts">
 		{#each data.posts as post}
 			<a class="card" href="/blog/{post.slug}">
-				<li class="post">
+				<!-- <a class="post" href="/blog/{post.slug}"> -->
+				<li>
 					<h2 class="title">{post.title}</h2>
 					<p class="date">{formatDate(post.date)}</p>
 					<p class="description">{post.description}</p>
 				</li>
 			</a>
+
 		{/each}
 	</ul>
 </section>
@@ -26,6 +28,7 @@
 	.posts {
 		display: grid;
 		gap: var(--size-7);
+		min-width: var(--size-5);
 	}
 
 	.post {
@@ -41,6 +44,8 @@
 		font-size: var(--font-size-fluid-2);
 		text-transform: capitalize;
         font-family: var(--font-sans-title);
+		color: var(--text-2);
+		
 	}
 
 	.date {
@@ -50,9 +55,13 @@
 	.description {
 		margin-top: var(--size-3);
         font-family: var(--font-sans-content);
+		color: var(--text-1);
+		
 	}
+	
+	
 	.card {
-		background-color: var(--surface-4-dark);
+		background-color: var(--surface-4);
 		border-radius: var(--radius-2);
 		padding: var(--size-fluid-3);
 		box-shadow: var(--shadow-2);
@@ -65,5 +74,5 @@
 		@media (--motionOK) {
 			animation: var(--animation-fade-in);
 		}
-	}
+	} 
 </style>
