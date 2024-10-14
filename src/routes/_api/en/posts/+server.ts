@@ -1,3 +1,4 @@
+export const prerender = true;
 import { json } from '@sveltejs/kit'
 import type { Post } from '$lib/types'
 
@@ -13,7 +14,7 @@ async function getPosts() {
 
 		if (file && typeof file === 'object' && 'metadata' in file) {
 			const metadata: any = file.metadata
-			const slug = metadata['permalink'].split('/').at(-1)
+			const slug = metadata['permalink']?.split('/')?.at(-1) || "about"
 			const post = { ...metadata, slug } satisfies Post
 			post.published && posts.push(post)
 		}
