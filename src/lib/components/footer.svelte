@@ -1,6 +1,14 @@
 <script lang="ts">
 	import * as config from '$lib/config'
 	import { Mail, Instagram } from 'lucide-svelte';
+
+	// const repetition = document.getElementById("repetition") as HTMLInputElement;
+
+// repetition.addEventListener("change", (evt: Event) => {
+//   const target = evt.target as HTMLInputElement;
+//   document.getElementById("bordered")!.style.borderImageRepeat = target.value;
+// });
+
 </script>
 
 <footer>

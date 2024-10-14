@@ -15,9 +15,12 @@
 		{/each}
 	</div>
 
-	<div class="prose">
+
+	<div class="content prose">
 		<svelte:component this={data.content} />
 	</div>
+
+
 </article>
 
 <style>
@@ -51,5 +54,12 @@
 	.tags > * {
 		padding: var(--size-2) var(--size-3);
 		border-radius: var(--radius-round);
+	}
+	.content{
+		margin-top: 1em;
+    	border-image: url('$lib/imgs/23.png');
+		border-image-repeat: round stretch;
+    	border-width: 35px;
+
 	}
 </style>

@@ -1,7 +1,7 @@
 @import '@fontsource-variable/arimo';
 @import '@fontsource/alegreya-sans';
 
-html {
+html,body {
 	/* font */
 	--font-sans-content: 'Alegreya Sans', sans-serif;
 	--font-sans-title: 'Arimo Variable', sans-serif;
@@ -14,19 +14,19 @@ html {
 	--surface-2-dark: var(--gray-11);
 	--surface-3-dark: var(--gray-10);
 	--surface-4-dark: var(--gray-9);
-	--background-dark: var(--gradient-8);
+	--background-dark: #343b46;
 	--border-dark: var(--gray-9);
 
 	/* light */
 	--brand-light: var(--orange-10);
 	--text-1-light: var(--gray-8);
 	--text-2-light: var(--gray-7);
-	--surface-1-light: var(--gray-0);
-	--surface-2-light: var(--gray-1);
-	--surface-3-light: var(--gray-2);
-	--surface-4-light: var(--gray-3);
-	--background-light: none;
-	--border-light: var(--gray-4);
+	--surface-1-light: var(--green-0);
+	--surface-2-light: var(--green-1);
+	--surface-3-light: var(--green-2);
+	--surface-4-light: var(--green-3);
+	--background-light: #fff;
+	--border-light: var(--green-4);
 }
 
 :root {

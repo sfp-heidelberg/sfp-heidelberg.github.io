@@ -10,12 +10,17 @@
 
 	<ul class="links">
 		<li>
-			<a href="/about">About</a>
+			<a href="/about"><button>About</button></a>
 		</li>
 		<li>
-			<a href="/events">Events</a>
+			<a href="/events"><button>Events</button></a>
 		</li>
-		<li><a href="/blog">Blog</a></li>
+		<li>
+			<a href="/blog"><button>Blog</button></a>
+		</li>
+		<li>
+			<a href="/palestine_101"><button>Palestine 101</button></a>
+		</li>
 	</ul>
     <Toggle/>
 </nav>
@@ -36,6 +41,17 @@
 	a {
 		color: inherit;
 		text-decoration: none;
+	}
+	button {
+  	color: var(--text-1);
+	background-color: var(--surface-3);
+	font-weight: var(--font-weight-4);
+
+	&:hover {
+		color: var(--text-2);
+		background-color: var(--surface-4);
+		box-shadow: var(--shadow-1);
+	}
 	}
 	@media (min-width: 768px) {
 		nav {
