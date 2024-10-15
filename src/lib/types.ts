@@ -1,4 +1,4 @@
-export type Categories = 'statement'
+export type Categories = 'statement|camp'
 
 export type Post = {
 	title: string
@@ -15,4 +15,15 @@ export type Page = {
 	layout: string
 	content: string
 	published: boolean
+}
+
+export type Event = {
+	title: string
+	slug: string
+	from_date: string
+	to_date: string
+	update_date: string
+	img_path: string
+	description: string
+	published: string
 }

@@ -27,18 +27,18 @@
 <style>
 	.posts {
 		display: grid;
-		gap: var(--size-7);
-		min-width: var(--size-5);
+		justify-content: center;
+		gap: var(--size-6);
 	}
 
-	.post {
+	/* .post {
 		max-inline-size: var(--size-content-3);
 	}
 
 	.post:not(:last-child) {
 		border-bottom: 1px solid var(--border);
 		padding-bottom: var(--size-7);
-	}
+	} */
 
 	.title {
 		font-size: var(--font-size-fluid-2);
