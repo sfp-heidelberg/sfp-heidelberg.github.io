@@ -20,8 +20,6 @@ export type Page = {
 export type Event = {
 	title: string
 	slug: string
-	from_date: string
-	to_date: string
 	update_date: string
 	img_path: string
 	description: string

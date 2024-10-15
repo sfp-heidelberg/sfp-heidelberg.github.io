@@ -21,7 +21,7 @@ async function getEvents(){
     }
 
     events = events.sort(
-        (first, second) => new Date(second.from_date).getTime() - new Date(first.from_date).getTime()
+        (first, second) => new Date(second.update_date).getTime() - new Date(first.update_date).getTime()
     )
 
     return events

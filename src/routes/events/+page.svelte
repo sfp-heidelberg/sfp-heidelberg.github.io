@@ -17,7 +17,7 @@
 				<!-- <a class="post" href="/blog/{post.slug}"> -->
 				<li>
 					<h2 class="title">{event.title}</h2>
-					<p class="date">{formatDate(event.from_date)} - {formatDate(event.to_date)}</p>
+					<p class="date">{formatDate(event.update_date)} - {formatDate(event.update_date)}</p>
 					<p class="description">{event.description}</p>
 				</li>
 			</a>
