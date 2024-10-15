@@ -20,11 +20,17 @@
 <style>
 	footer {
 		padding-block: var(--size-7);
-		border-top: 1px solid var(--border);
+		margin-top: 1em;
+		border-top: 20px solid transparent;
+    	border-image: url('/4_.png');
+		border-image-repeat: space;
+		border-image-slice: 250;
+		padding: var(--size-2);
 		display: flexbox;
 	}
 
 	p {
 		color: var(--text-2);
 	}
+
 </style>

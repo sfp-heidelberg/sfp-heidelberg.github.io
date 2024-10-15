@@ -68,7 +68,7 @@
 	.card {
 		background-color: var(--surface-4);
 		border-radius: var(--radius-2);
-		padding: var(--size-fluid-3);
+		padding: var(--size-3);
 		box-shadow: var(--shadow-2);
 		text-decoration: none;
 		display: flex;

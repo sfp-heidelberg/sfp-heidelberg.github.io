@@ -15,7 +15,6 @@
 		{/each}
 	</div>
 
-
 	<div class="content prose">
 		<svelte:component this={data.content} />
 	</div>
@@ -57,9 +56,11 @@
 	}
 	.content{
 		margin-top: 1em;
-    	border-image: url('$lib/imgs/23.png');
-		border-image-repeat: round stretch;
-    	border-width: 35px;
+		border-top: 15px solid transparent;
+    	border-image: url('/4_.png'); /* source:  https://tirazain.com/archive/p/lily-f5j49-2ydlp-jkdr3-wpwg5 */
+		border-image-repeat: space;
+		border-image-slice: 250;
+		padding: var(--size-2)
 
 	}
 </style>
