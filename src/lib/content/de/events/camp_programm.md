@@ -40,3 +40,51 @@ published: true
 | 17:00 | Dabke (Tanz) Workshop mit Samer Kaiber |
 | 19:00 (umgefähr) | Abendessen (Küfa) |
 | 20:00 | Filmabend |
+
+## Samstag, 19. Oktober
+
+| Uhrzeit | Veranstaltung |
+| --- | --- |
+| 13:00 | Kundgebung |
+| 14:00 | Dabkeh-Workshop mit Samer Kaiber |
+| 16:00 | Vortrag über Klimagerechtigkeit mit Theodora (SfP) |
+| 17:00 | Traditionelle Tänze mit Samer Kaiber |
+| 19:00 | Abendessen für Alle |
+| 20:00 | Filmabend: "The Wanted 18" (2014) |
+
+## Sonntag, 20. Oktober
+
+| Uhrzeit | Veranstaltung |
+| --- | --- |
+| 11:00 | "Marxistische Perspektive zu Palästina" mit Ceri (Revolution Germany) |
+| 13:00 | Kundgebung |
+| 14:00 | Dabkeh-Kurs mit Samer Kaiber <br/> Kerzen \& Beutel bemalen ([Free Palestine KA](https://www.instagram.com/freepalestine.karlsruhe/)) |
+| 15:00 | Falafel-Stand (Gazawiyah, bis 19:00) |
+| 16:00 | Ronnie Barkan (Boycott from Within) engl. |
+| 18:00 | Input über die BDS Bewegung |
+
+## Montag, 21. Oktober
+
+| Uhrzeit | Veranstaltung |
+| --- | --- |
+| 13:00 | Kundgebung |
+| 14:00 | Teppich-Workshop mit Sofia |
+| 17:00 | "Von Heidelberg nach Gaza: Wie können wir dem Ganzen einen Sinn geben?" mit Hebh Jamal|
+| 18:30 | "Repression von Palästinensischem Aktivismus in Deutschland" mit Mahmoud O. |
+| 19:00 | Abendessen für Alle |
+
+## Dienstag, 22. Oktober
+
+| Uhrzeit | Veranstaltung |
+| --- | --- |
+| 13:00 | Kundgebung |
+| 14:00 | Töpfer-Workshop mit Sofia |
+| 16:00 | Input von Abdallah A. Abdelhadi |
+| 17:00 | "Kriminalisierung der Palästinasolidarität" mit Ahmad Uthman (Duisburg) |
+| 19:00 | Abendessen für Alle |
+| 20:00 | Filmabend: "We are All for Homeland" (1979) |
+
+## Mittwoch, 23. Oktober
+| Uhrzeit | Veranstaltung |
+| --- | --- |
+| 13:00 | Schlusskundgebung Abbau des Camps |
