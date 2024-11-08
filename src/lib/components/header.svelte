@@ -5,7 +5,7 @@
 
 <nav>
 	<a href="/" class="title">
-		<b>{config.title}</b>
+		<b>{config.main_title}</b>
 	</a>
 
 	<ul class="links">

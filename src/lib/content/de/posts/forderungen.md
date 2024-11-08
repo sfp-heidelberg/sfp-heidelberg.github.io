@@ -6,7 +6,7 @@ tags:
   - statements
 published: true
 slug: forderungen
-description: 'Unsere Forderungen als Gruppe!'
+description: 'Wir, die Studierenden der Heidelberger Hochschulen, fordern an alle Heidelberger Bildungs- und Forschungseinrichtungen'
 ---
 
 

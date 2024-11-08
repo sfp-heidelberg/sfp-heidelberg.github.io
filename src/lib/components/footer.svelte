@@ -12,7 +12,7 @@
 </script>
 
 <footer>
-	<p>{config.title} &copy {new Date().getFullYear()}</p>
+	<p>{config.main_title} &copy {new Date().getFullYear()}</p>
 	<button><a href="mailto:{config.email}"><Mail/></a></button>
 	<button><a href="https://www.instagram.com/{config.instagram_username}"><Instagram/></a></button>
 </footer>

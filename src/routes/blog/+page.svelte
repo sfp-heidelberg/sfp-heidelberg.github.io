@@ -5,7 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>{config.title}</title>
+	<title>{config.BlogTitle}</title>
+
 </svelte:head>
 
 <section>

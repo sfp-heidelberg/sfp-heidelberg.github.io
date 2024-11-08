@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: 'Offener Brief'
-description: 'Als Studierende der Heidelberger Hochschulen haben wir uns als Reaktion auf den Völkermord an den Palästinenser:innen zusammengefunden'
+description: 'Als Studierende der Heidelberger Hochschulen haben wir uns als Reaktion auf den Völkermord an den Palästinenser:innen zusammengefunden, um uns mit der palästinensischen Bevölkerung, den palästinensischen Studierenden und der globalen Studierendenbewegung zu solidarisieren'
 date: '2024-06-28'
 tags:
   - statements
@@ -53,8 +53,3 @@ Students for Palestine Heidelberg
 
 Heidelberg, den 28.06.2024
 
-Kontakt:
-
-E-Mail: [sfp_heidelberg@protonmail.com](mailto:sfp_heidelberg@protonmail.com)
-
-Instagram: [@sfp_heidelberg](https://www.instagram.com/sfp_heidelberg)

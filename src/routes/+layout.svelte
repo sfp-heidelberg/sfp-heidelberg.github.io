@@ -6,9 +6,16 @@
 	import 'open-props/normalize'
 	import 'open-props/buttons'
 	import '../app.css'
+	import * as config from '$lib/config'
 
 	export let data
+
 </script>
+<svelte:head>
+	<title>{config.main_title}</title>
+	<meta name="description" content={config.main_description} />
+	<meta name="keywords" content={config.main_keywords}/>
+</svelte:head>
 
 <div class="layout">
 	<Header />
