@@ -18,6 +18,7 @@
 					<h2 class="title">{post.title}</h2>
 					<p class="date">{formatDate(post.date)}</p>
 					<p class="description">{post.description}</p>
+					
 				</li>
 			</a>
 
@@ -45,12 +46,14 @@
 		font-size: var(--font-size-fluid-2);
 		text-transform: capitalize;
         font-family: var(--font-sans-title);
-		color: var(--text-2);
+		color: var(--text-1);
 		
 	}
 
 	.date {
 		color: var(--text-2);
+		font-size: var(--font-size-0);
+		padding-block: var(--size-1);
 	}
 
 	.description {

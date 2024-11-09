@@ -17,7 +17,7 @@
 				<!-- <a class="post" href="/blog/{post.slug}"> -->
 				<li>
 					<h2 class="title">{event.title}</h2>
-					<p class="date">{formatDate(event.update_date)} - {formatDate(event.update_date)}</p>
+					<p class="date">{formatDate(event.update_date)}</p>
 					<p class="description">{event.description}</p>
 				</li>
 			</a>
@@ -50,10 +50,13 @@
 		
 	}
 
+
 	.date {
 		color: var(--text-2);
+		font-size: var(--font-size-0);
+		padding-block: var(--size-1);
 	}
-
+	
 	.description {
 		margin-top: var(--size-3);
         font-family: var(--font-sans-content);

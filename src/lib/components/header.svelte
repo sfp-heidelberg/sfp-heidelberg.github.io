@@ -4,34 +4,43 @@
 </script>
 
 <nav>
+
 	<a href="/" class="title">
 		<b>{config.main_title}</b>
 	</a>
 
-	<ul class="links">
+	<ul class="nav-links">
 		<li>
-			<a href="/about"><button>About</button></a>
+			<a href="/about">About</a>
 		</li>
 		<li>
-			<a href="/events"><button>Events</button></a>
+			<a href="/events">Events</a>
 		</li>
 		<li>
-			<a href="/blog"><button>Blog</button></a>
+			<a href="/blog">Blog</a>
 		</li>
 		<li>
-			<a href="/palestine_101"><button>Palestine 101</button></a>
+			<a href="/palestine_101">Palestine 101</a>
+		</li>
+		<li class="toggle-btn">
+			<Toggle/>
 		</li>
 	</ul>
-    <Toggle/>
 </nav>
 
 <style>
-	nav {
-		padding-block: var(--size-7);
+	.nav-links {
+		margin-top: var(--size-6);
 	}
 
-	.links {
-		margin-block: var(--size-7);
+	.toggle-btn{
+		align-self: center;
+	}
+	nav {
+		padding-block: var(--size-7);
+		flex-direction: column;
+		align-items: center;
+		display: flex;
 	}
     .title {
 		font-size: var(--font-size-fluid-1);
@@ -42,10 +51,14 @@
 		color: inherit;
 		text-decoration: none;
 	}
-	button {
-  	color: var(--text-1);
-	background-color: var(--surface-3);
-	font-weight: var(--font-weight-4);
+	
+	.nav-links a {
+		color: var(--text-1);
+		background-color: inherit;
+		font-weight: var(--font-weight-5);
+		padding: var(--size-2);
+		border-radius: var(--radius-3);
+
 
 	&:hover {
 		color: var(--text-2);
@@ -54,14 +67,16 @@
 	}
 	}
 	@media (min-width: 768px) {
+		.title {
+			font-size: var(--font-size-fluid-2);
+		}
 		nav {
 			display: flex;
 			justify-content: space-between;
 		}
-		.links {
+		.nav-links {
 			display: flex;
 			gap: var(--size-7);
-			margin-block: 0;
 		}
 	}
 </style>
