@@ -1,8 +1,11 @@
 <script lang="ts">
-	import { formatDate } from '$lib/utils'
-	import * as config from '$lib/config'
     export let data
 </script>
+
+<svelte:head>
+	<title>{data.meta.title}</title>
+	<meta title={data.meta.title} content={data.meta.description}/>
+</svelte:head>
 
 <article>
     <hgroup>
