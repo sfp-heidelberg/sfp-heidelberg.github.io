@@ -65,7 +65,7 @@
 	}
 	
 	img {
-		max-width: var(--size-fluid-10);
+		max-width: var(--size-fluid-9);
 		margin-bottom: var(--size-4);
 	}
 	.card {

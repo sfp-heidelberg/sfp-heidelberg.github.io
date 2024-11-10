@@ -19,6 +19,7 @@
 
 <div class="layout">
 	<Header />
+
 	<main>
 		<Transition url={data.url}>
 			<slot />
