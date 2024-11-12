@@ -1,6 +1,6 @@
 <script lang="ts">
 	import * as config from '$lib/config'
-	import { Mail, Instagram } from 'lucide-svelte';
+	import { Dot } from 'lucide-svelte';
 
 	// const repetition = document.getElementById("repetition") as HTMLInputElement;
 
@@ -13,8 +13,12 @@
 
 <footer>
 	<p>{config.main_title} &copy {new Date().getFullYear()}</p>
-	<button><a href="mailto:{config.email}"><Mail/></a></button>
-	<button><a href="https://www.instagram.com/{config.instagram_username}"><Instagram/></a></button>
+	<div class="footer-links">
+		<a href="mailto:{config.email}">Email</a> •
+		<a href="https://www.instagram.com/{config.instagram_username}">Instagram</a> •
+		<a href="/impressum">Impressum</a>
+	</div>
+
 </footer>
 
 <style>
@@ -27,6 +31,9 @@
 		border-image-slice: 250;
 		padding: var(--size-2);
 		display: flexbox;
+	}
+	.footer-links {
+		justify-self: center;
 	}
 
 	p {
