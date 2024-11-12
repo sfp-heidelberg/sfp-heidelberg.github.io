@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { formatDate } from '$lib/utils'
 	import * as config from '$lib/config'
 	import BlogCard from '$lib/components/BlogCard.svelte';
 	export let data

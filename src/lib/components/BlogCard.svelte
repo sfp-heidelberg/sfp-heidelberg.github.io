@@ -7,7 +7,7 @@
     {#each posts as post}
         <a class="card" href="/blog/{post.slug}">
             <li>
-                <h2 class="title">{post.title}</h2>
+                <h3 class="title">{post.title}</h3>
                 <p class="date">{formatDate(post.date)}</p>
                 <p class="description">{post.description}</p>
                 
@@ -44,7 +44,7 @@
 
 	.date {
 		color: var(--text-2);
-		font-size: var(--font-size-0);
+		font-size: var(--font-size-1);
 		padding-block: var(--size-1);
 	}
 

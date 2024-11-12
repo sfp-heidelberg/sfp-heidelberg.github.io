@@ -1,5 +1,8 @@
 <script lang='ts'>
-    import {ArrowRight} from 'lucide-svelte'
+    import BlogCard from '$lib/components/BlogCard.svelte'
+	import EventCard from '$lib/components/EventCard.svelte'
+import {ArrowRight} from 'lucide-svelte'
+export let data;
 </script>
 
 <div class="layout">
@@ -15,14 +18,33 @@
     </div>
 </div>
 
+
 <div class="event-card">
     <div class="event-card-header">
-        Aktuelles
+        Unsere Events
     </div>
-
+    <div class="event-card-content">
+        <EventCard events={data.topEvents}/>
+    </div>
 </div>
 
+<div class="event-card">
+    <div class="event-card-header">
+        Aktuelle Beiträge
+    </div>
+    <div class="event-card-content">
+        <BlogCard posts={data.topPosts}/>
+    </div>
+</div>
 
+<div class="event-card">
+    <div class="event-card-header">
+        Newsletter
+    </div>
+    <div class="event-card-content">
+        Coming Soon!
+    </div>
+</div>
 
 
 
@@ -74,9 +96,10 @@
     .event-card {
         display: grid;
         grid-template-columns: 30% 70%;
-        grid-row: 100%;
+        grid-template-rows: 10% 90%;
         grid-template-areas: 
-        'c-title e-c-content';
+        'c-title c-title'
+        'e-c-content e-c-content';
         margin-block: var(--size-5);
         width: 100%;
     }
@@ -108,5 +131,15 @@
             ' c-content'
             ' c-link';
         }
+        .event-card {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 10% 90%;
+        grid-template-areas: 
+        'c-title '
+        'e-c-content';
+        margin-block: var(--size-5);
+        width: 100%;
+    }
     } 
 </style>
