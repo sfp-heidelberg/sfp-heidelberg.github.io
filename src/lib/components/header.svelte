@@ -43,7 +43,8 @@
 
 	<div class="mob-nav">
 		<a href="/" class="title">
-			<b>{config.main_title}</b>
+				<img src="/Logo_sfp_heidelberg.png" alt="Logo sfp Heidelberg">
+				<b>{config.main_title}</b>
 		</a>
 		<button on:click={toggleMenu} type="button" class="nav-menu">
 			<Menu class="nav-menu"/>
@@ -110,6 +111,11 @@
 		font-size: var(--font-size-fluid-1);
 		text-transform: capitalize;
         font-family: var(--font-sans-title);
+		display: inline-flex;
+		align-items: center;
+	}
+	.title img{
+		max-width: 50px;
 	}
 	a {
 		color: inherit;
@@ -130,6 +136,12 @@
 		background-color: var(--surface-4);
 		box-shadow: var(--shadow-1);
 	}
+	}
+	.logo {
+		display: inline-flex;
+	}
+	.logo img{
+		max-width: 30px;
 	}
 	@media (max-width: 768px) {
 		nav {
