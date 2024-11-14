@@ -6,7 +6,7 @@
 
 <svelte:head>
 	<title>{data.meta.title}</title>
-	<meta title={data.meta.title} content={data.meta.description}/>
+	<meta title="description" content={data.meta.description}/>
 </svelte:head>
 
 <article>

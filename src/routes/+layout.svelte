@@ -12,8 +12,6 @@
 
 </script>
 <svelte:head>
-	<title>{config.main_title}</title>
-	<meta name="description" content={config.main_description} />
 	<meta name="keywords" content={config.main_keywords}/>
 </svelte:head>
 

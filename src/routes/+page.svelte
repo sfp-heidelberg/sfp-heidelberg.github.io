@@ -1,9 +1,15 @@
 <script lang='ts'>
     import BlogCard from '$lib/components/BlogCard.svelte'
 	import EventCard from '$lib/components/EventCard.svelte'
+    import * as config from '$lib/config'
 import {ArrowRight} from 'lucide-svelte'
 export let data;
 </script>
+
+<svelte:head>
+	<title>{config.main_title}</title>
+	<meta name="description" content={config.main_description} />
+<svelte:head/>
 
 <div class="layout">
 <div class="card">
