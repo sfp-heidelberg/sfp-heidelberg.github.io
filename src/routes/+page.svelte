@@ -9,7 +9,7 @@ export let data;
 <svelte:head>
 	<title>{config.main_title}</title>
 	<meta name="description" content={config.main_description} />
-<svelte:head/>
+</svelte:head>
 
 <div class="layout">
 <div class="card">
