@@ -54,6 +54,7 @@
 		margin-top: var(--size-3);
         font-family: var(--font-sans-content);
 		color: var(--text-1);
+		font-size: var(--font-size-3);
 		
 	}
 	

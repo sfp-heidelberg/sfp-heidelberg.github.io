@@ -36,15 +36,3 @@ Wir, die Studierenden der Heidelberger Hochschulen, fordern an alle Heidelberger
    2. **Ablehnung der Instrumentalisierung und des Missbrauchs des Antisemitismus-Begriffs** durch die Verwendung der IHRA-Arbeitsdefinition (insbesondere mittels der Gleichsetzung von Antizionismus mit Antisemitismus) sowie der Verbreitung von Desinformationen und Propaganda.
 
    3. Überprüfung und strukturelle Reformierung der universitären Maßnahmen gegen Diskriminierung an Heidelberger Bildungs- und Forschungseinrichtungen.
-
---- 
-### Quellen:
-- https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/ 
-
-- https://www.vox.com/world-politics/24128715/israel-palestine-conflict-settler-colonialism-zionism-history-debate
-
-- https://theconversation.com/israel-hamas-war-what-is-zionism-a-history-of-the-political-movement-that-created-israel-as-we-know-it-217788 
-
-- https://www.tandfonline.com/doi/pdf/10.1080/2201473X.2012.10648833 - paper by Fayez Abdullah Sayegh - prominent scholar and diplomat
-
-- https://www.palestine-studies.org/en/node/232079 - "Israel a failed settler colonial project"
