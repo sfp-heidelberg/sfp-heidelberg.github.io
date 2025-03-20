@@ -48,7 +48,7 @@ export let data;
         Newsletter
     </div>
     <div class="event-card-content">
-        Coming Soon!
+        Checkout our <a href="https://wewriteweresist.substack.com/" target="_blank" rel="noopener noreferrer">Substack Newsletter</a>
     </div>
 </div>
 
