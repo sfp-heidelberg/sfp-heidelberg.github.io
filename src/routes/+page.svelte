@@ -20,7 +20,9 @@ export let data;
         Wir, die Heidelberger Studierenden, haben uns zusammengefunden, um uns solidarisch zu zeigen mit dem palästinensischen Volk!
     </div>
     <div class="card-footer">
-        <a href="/about">Über Uns</a>
+        <a href="https://wewriteweresist.substack.com/" target="_blank" rel="noopener noreferrer"
+        ><button class="newsletter-btn"><span>Unser Newsletter</span></button
+        ></a>
     </div>
 </div>
 
@@ -127,6 +129,36 @@ export let data;
         display: inline-block;
     }
 
+    .newsletter-btn {
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+
+    .newsletter-btn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    }
+
+    .newsletter-btn span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+    }
+
+    .newsletter-btn:hover span {
+        padding-right: var(--size-7);
+    }
+
+    .newsletter-btn:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+
     @media (max-width:768px){
         .card {
             display: grid;
@@ -147,5 +179,6 @@ export let data;
         margin-block: var(--size-5);
         width: 100%;
     }
-    } 
+    }
+
 </style>
