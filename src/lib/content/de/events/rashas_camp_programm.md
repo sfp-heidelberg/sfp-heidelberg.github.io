@@ -1,7 +1,7 @@
 ---
 layout: events
-title: Camp Programm
-slug: camp_programm
+title: Rasha's Camp 2024
+slug: rashas_camp_programm
 update_date: '2024-10-15'
 img_path: '/de_camp_oktober.jpg'
 description: 'Students for Palestine Heidelberg wird von Mittwoch, 16. bis Mittwoch, 23. Oktober ein Camp auf dem Uniplatz veranstalten. Genauere Infos zum Ablauf folgen finden Sie hier und auf unserem Instagram. stay tuned!'
