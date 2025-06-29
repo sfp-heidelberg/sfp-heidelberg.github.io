@@ -113,6 +113,8 @@ li {
 	padding-inline-start: 0;
 }
 
+
+
 .surface-1 {
 	background-color: var(--surface-1);
 	color: var(--text-2);
@@ -151,6 +153,7 @@ li {
 .prose :is(ul, ol) li {
 	margin-block: var(--size-2);
 	padding-inline-start: var(--size-2);
+	font-size: var(--font-size-3);
 }
 
 .prose pre {
@@ -158,4 +161,34 @@ li {
 	padding: var(--size-4);
 	border-radius: 8px;
 	tab-size: 2;
+}
+
+.prose table {
+  width: 100%;
+  margin: var(--size-5) 0;
+  font-size: var(--font-size-3);
+}
+
+.prose thead {
+  background-color: var(--color-surface-2); /* adjust as needed */
+  text-align: left;
+}
+
+.prose th,
+.prose td {
+  padding: var(--size-3);
+}
+
+.prose th {
+  font-weight: bold;
+}
+
+.prose tbody tr:nth-child(odd) {
+  background-color: var(--color-surface-4);
+
+}
+
+.prose tr:hover th,
+.prose tr:hover td {
+  background-color: inherit;
 }
