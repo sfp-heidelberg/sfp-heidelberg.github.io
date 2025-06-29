@@ -69,7 +69,7 @@ Wenn ihr euch auch für ein freies Palästina einsetzen wollt, kommt zwischen de
 | 13:30 | Gemeinsames Demo-Schilder-Malen für Samstag |
 | 16:00 | Workshop: Palästina 101 - Geschichte, Erinnerung und der Befreiungskampf |
 | 17:45 | Zweite Kundgebung mit Hebh Jamal |
-| 18:30 | Input zur Shit Elbit Down Kampagne |
+| 18:30 | Input zur Shut Elbit Down Kampagne |
 | 19:45 | Workshop von Rythms of Resistance |
 | 20:00 | Gemeinsames Essen |
 
