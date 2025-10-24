@@ -11,7 +11,7 @@ Albert-Ueberle-Str. 3-5
 69120 Heidelberg
 
 ### Kontakt
-E-Mail: sfp_heidelberg@protonmail.com 
+E-Mail: sfpheidelberg@protonmail.com 
 Instagram: https://www.instagram.com/sfp_heidelberg
 
 ### Haftungshinweis
